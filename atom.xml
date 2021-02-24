@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://WoZlent.github.io</id>
-    <title>JJJJ</title>
-    <updated>2021-02-24T02:17:27.873Z</updated>
+    <title>1</title>
+    <updated>2021-02-24T03:37:02.278Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://WoZlent.github.io"/>
     <link rel="self" href="https://WoZlent.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://WoZlent.github.io/images/avatar.png</logo>
     <icon>https://WoZlent.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, JJJJ</rights>
+    <rights>All rights reserved 2021, 1</rights>
     <entry>
         <title type="html"><![CDATA[和文件夹和]]></title>
         <id>https://WoZlent.github.io/post/he-wen-jian-jia-he/</id>
